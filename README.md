@@ -17,7 +17,7 @@ This open-source **Discord bot** was built for the **Narrow.One** community to:
 
 ## ✨ Features
 
-- 🔁 `/squadcodecreate` — Generate a new squad code
+- 🔁 `/squadcodecreate` — Slash command to Generate a new squad code
 - ✅  Verify a squad code
 - 💡 Easy integration with Discord servers
 - 👥 Open source and ready for contributions!
@@ -28,5 +28,6 @@ This open-source **Discord bot** was built for the **Narrow.One** community to:
 
 ### 1. Clone the Repo
 ```bash
+https://discord.js.org/
 git clone https://github.com/Talent7-source/Squad-Code.git
 
